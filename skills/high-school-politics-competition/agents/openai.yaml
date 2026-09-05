@@ -1,0 +1,4 @@
+interface:
+  display_name: "高中思想政治师范生比赛课磨课"
+  short_description: "面向思想政治教育师范生，支持约15分钟高中思想政治比赛课的设计、训练、修改与评价"
+  default_prompt: "请使用 $high-school-politics-competition，根据我提供的比赛要求和材料协助完成当前阶段任务。"
