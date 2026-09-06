@@ -1,6 +1,6 @@
 # References 目录索引
 
-本目录存放按需读取的具体依据；已建立核心认知冲突、六步问题链、学生认知活动、教师追问、板书与创新方法，以及比赛课内部评价标准，分别见 [methods 索引](methods/README.md) 和 [rubrics 索引](rubrics/README.md)。已建立从零设计、已有方案磨课与模拟评委工作流，见 [workflows 索引](workflows/README.md)；examples 仍为目录说明。
+本目录存放按需读取的具体依据；已建立核心认知冲突、六步问题链、学生认知活动、教师追问、板书与创新方法，以及比赛课内部评价标准，分别见 [methods 索引](methods/README.md) 和 [rubrics 索引](rubrics/README.md)。已建立从零设计、已有方案磨课与模拟评委工作流，见 [workflows 索引](workflows/README.md)；已建立《价值判断与价值选择》带注释示例，见 [examples 索引](examples/README.md)。
 
 | 子目录 | 何时读取 |
 | --- | --- |
