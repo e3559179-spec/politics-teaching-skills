@@ -1,6 +1,6 @@
 # References 目录索引
 
-本目录存放按需读取的具体依据；已建立六步问题链方法、学生认知活动方法与比赛课内部评价标准，分别见 [methods 索引](methods/README.md) 和 [rubrics 索引](rubrics/README.md)。其余分类仍为目录说明。
+本目录存放按需读取的具体依据；已建立六步问题链、学生认知活动、教师追问方法与比赛课内部评价标准，分别见 [methods 索引](methods/README.md) 和 [rubrics 索引](rubrics/README.md)。其余分类仍为目录说明。
 
 | 子目录 | 何时读取 |
 | --- | --- |
